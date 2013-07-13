@@ -1,2 +1,2 @@
-Controle-Acad-mico
+Controle_Academico
 ==================
